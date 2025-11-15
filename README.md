@@ -21,7 +21,3 @@ This project aims to:
 * **NumPy** (For numerical operations)
 
 ---
-
-## 📂 Repository Structure
-
-The project files are organized as follows:
